@@ -1,0 +1,21 @@
+// app global css in SCSS form
+
+@import 'fonts.scss';
+
+* {
+  font-family: dana;
+  -moz-font-feature-settings: 'ss02';
+  -webkit-font-feature-settings: 'ss02';
+  font-feature-settings: 'ss02';
+}
+
+.reverse-actions .q-card__actions {
+  flex-direction: row-reverse;
+  button {
+    margin: 0px 5px;
+  }
+}
+
+.user-space-image {
+  border-radius: 50%;
+}

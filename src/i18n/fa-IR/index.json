@@ -1,0 +1,99 @@
+{
+  "app": {
+    "title": "نمودار احساسات"
+  },
+  "general": {
+    "count": "عدد",
+    "actions": "عملیات",
+    "id": "کد",
+    "name": "نام",
+    "description": "توضیحات",
+    "edit": "ویرایش",
+    "delete": "حذف",
+    "settings": "تنظیمات",
+    "tools": "ابزار‌ها",
+    "save": "ذخیره",
+    "done": "انجام شد",
+    "notSelected": "انتخاب نشده",
+    "manage": "مدیریت",
+    "yes": "بله",
+    "no": "خیر",
+    "cancel": "لغو",
+    "search": "جستجو",
+    "status": "وضعیت",
+    "active": "فعال",
+    "notActive": "غیر فعال",
+    "date": "تاریخ",
+    "startDate": "تاریخ شروع",
+    "endDate": "تاریخ پایان",
+    "regdate": "تاریخ ثبت",
+    "download": "دریافت",
+    "next": "بعدی",
+    "back": "قبلی",
+    "submit": "ثبت",
+    "counts": "تعداد",
+    "size": "اندازه",
+    "approve": "تایید کردن",
+    "reject": "رد کردن",
+    "add": "افزودن",
+    "create": "ایجاد",
+    "join": "عضویت",
+    "see": "مشاهده",
+    "ui": {
+      "loading": "در حال به‌روز‌رسانی...",
+      "listOfX": "لیست {x}",
+      "yourSpaces": "فضا‌های ایجاد شده توسط شما",
+      "spacesList": "لیست فضا‌ها",
+      "selectEmoji": "انتخاب ایموجی",
+      "showHistory": "نمایش تاریخچه",
+      "notShowHistory": "عدم نمایش تاریخچه",
+      "yourStatus": "وضعیت شما : ",
+      "emotionSavedSuccessfuly": "ایموشن شما با موفقیت ثبت شد",
+      "enterYourFeelingsHere": "احساس خود را ایتجا بنویسید...",
+      "successfullyLoggedIn": "ورود شما با موفقیت انجام شد ، در حال بازگشت به صفحه خانه"
+    }
+  },
+  "modules": {
+    "dashboard": {
+      "ui": {
+        "dashboard": "داشبورد",
+        "profile": "پروفایل",
+        "logout": "خروج"
+      }
+    },
+    "auth": {
+      "ui": {
+        "signinWithGoogle": "ورود با گوگل"
+      }
+    },
+    "spaces": {
+      "title": "فضا",
+      "pluralTitle": "فضا‌ها",
+      "ui": {
+        "joinedSuccessfuly": "با موفقت عضو شدید"
+      }
+    }
+  },
+  "validations": {
+    "required": "این فیلد اجباری است",
+    "shouldBeNumber": "این فیلد باید فقط شامل عدد باشد",
+    "numberRange": "ورودی باید در محدوده {0} تا {1} باشد"
+  },
+  "errors": {
+    "api": {
+      "404": "سرویس مربوطه پیدا نشد."
+    }
+  },
+  "actions": {
+    "newX": "{x} جدید",
+    "editX": "ویرایش {x}",
+    "XWillBeUpdated": "{x} مربوطه به‌روزرسانی خواهد شد ، آیا اطمینان دارید ؟",
+    "XWillBeDeleted": "{x} مربوطه حذف خواهد شد ، آیا اطمینان دارید ؟",
+    "XDeletedSuccessfully": "{x} مربوطه با موفقیت حذف شد",
+    "XUpdatedSuccessfully": "{x} مربوطه با موفقیت به‌روزرسانی شد",
+    "XAddedSuccessfully": "{x} جدید با موفقیت ایجاد شد"
+  },
+  "titles": {
+    "manageX": "مدیریت {x}"
+  }
+}
